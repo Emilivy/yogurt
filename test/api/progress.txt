@@ -48,10 +48,10 @@ www.jimdo.com#💜⭐Version⭐🍑
 nexusmods.com#💜⭐Version⭐🍑
 www.nexusmods.com#💜⭐Version⭐🍑
 dx.doi.org#💜⭐Version⭐🍑
-dev.genius.v6.rocks#💙✨Success✨🍋
-git.genius.v6.rocks#💙✨Success✨🍋
-dev.gifted.dynv6.net#💙✨Success✨🍋
-git.gifted.dynv6.net#💙✨Success✨🍋
+dev.genius.v6.rocks#💙✨Easy✨🍋
+git.genius.v6.rocks#💙✨Easy✨🍋
+dev.gifted.dynv6.net#💙✨Easy✨🍋
+git.gifted.dynv6.net#💙✨Easy✨🍋
 api.enable.dynv6.net#💛✨Speed✨🥭
 cdn.enable.dynv6.net#💛✨Speed✨🥭
 app.fruit.v6.rocks#💛✨Speed✨🥭
